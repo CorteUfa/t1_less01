@@ -14,6 +14,8 @@ import java.io.StringWriter;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+// Comment recording test by demo account.....
+
 // Для меня тестирование в такаом формате ново
 // Возможно что то я не понял в тестирвоание.
 
